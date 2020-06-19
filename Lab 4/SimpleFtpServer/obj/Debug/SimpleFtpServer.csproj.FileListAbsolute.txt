@@ -1,0 +1,12 @@
+C:\Users\Катерина\Downloads\BSUIR.2.4.KSiS-master\BSUIR.2.4.KSiS-master\Lab 4\SimpleFtpServer\bin\Debug\SimpleFtpServer.exe.config
+C:\Users\Катерина\Downloads\BSUIR.2.4.KSiS-master\BSUIR.2.4.KSiS-master\Lab 4\SimpleFtpServer\bin\Debug\SimpleFtpServer.exe
+C:\Users\Катерина\Downloads\BSUIR.2.4.KSiS-master\BSUIR.2.4.KSiS-master\Lab 4\SimpleFtpServer\bin\Debug\SimpleFtpServer.pdb
+C:\Users\Катерина\Downloads\BSUIR.2.4.KSiS-master\BSUIR.2.4.KSiS-master\Lab 4\SimpleFtpServer\obj\Debug\SimpleFtpServer.csprojAssemblyReference.cache
+C:\Users\Катерина\Downloads\BSUIR.2.4.KSiS-master\BSUIR.2.4.KSiS-master\Lab 4\SimpleFtpServer\obj\Debug\SimpleFtpServer.exe
+C:\Users\Катерина\Downloads\BSUIR.2.4.KSiS-master\BSUIR.2.4.KSiS-master\Lab 4\SimpleFtpServer\obj\Debug\SimpleFtpServer.pdb
+F:\Курс_2_Семестр_2\КСиС\Laba4\BSUIR.2.4.KSiS-master\BSUIR.2.4.KSiS-master\Lab 4\SimpleFtpServer\bin\Debug\SimpleFtpServer.exe.config
+F:\Курс_2_Семестр_2\КСиС\Laba4\BSUIR.2.4.KSiS-master\BSUIR.2.4.KSiS-master\Lab 4\SimpleFtpServer\bin\Debug\SimpleFtpServer.exe
+F:\Курс_2_Семестр_2\КСиС\Laba4\BSUIR.2.4.KSiS-master\BSUIR.2.4.KSiS-master\Lab 4\SimpleFtpServer\bin\Debug\SimpleFtpServer.pdb
+F:\Курс_2_Семестр_2\КСиС\Laba4\BSUIR.2.4.KSiS-master\BSUIR.2.4.KSiS-master\Lab 4\SimpleFtpServer\obj\Debug\SimpleFtpServer.csprojAssemblyReference.cache
+F:\Курс_2_Семестр_2\КСиС\Laba4\BSUIR.2.4.KSiS-master\BSUIR.2.4.KSiS-master\Lab 4\SimpleFtpServer\obj\Debug\SimpleFtpServer.exe
+F:\Курс_2_Семестр_2\КСиС\Laba4\BSUIR.2.4.KSiS-master\BSUIR.2.4.KSiS-master\Lab 4\SimpleFtpServer\obj\Debug\SimpleFtpServer.pdb
